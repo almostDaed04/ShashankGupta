@@ -14,12 +14,11 @@ Currently obsessed with **Jetpack Compose** ❤️, while also expanding into **
 ![](https://nirzak-streak-stats.vercel.app/?user=almostDaed04&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=almostDaed04&theme=dark&hide_border=false&layout=compact)
 
----
 
 ---
 
 ## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/almostdaed_416)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shashank_416)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/almostdaed_416)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashank299792458@gmail.com)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/almostdaed_416)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shashank_416)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/almostdead_416)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashank299792458@gmail.com)  
 
 ---
 
@@ -51,7 +50,6 @@ Currently obsessed with **Jetpack Compose** ❤️, while also expanding into **
 
 ### 🎨 Design & UI
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 
 
 [![](https://visitcount.itsvg.in/api?id=almostDaed04&icon=0&color=0)](https://visitcount.itsvg.in)
